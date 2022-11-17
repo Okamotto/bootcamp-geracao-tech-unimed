@@ -16,3 +16,4 @@ Repositório dos desafios do Bootcamp Geração Tech Unimed-BH - Ciência de Dad
   - Desafio COVID 19
   - Desafio Image Processing Package
   - Desafio Pytohn e Pandas
+  - Boas práticas com DynamoDB
