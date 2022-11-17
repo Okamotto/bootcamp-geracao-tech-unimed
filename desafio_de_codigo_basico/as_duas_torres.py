@@ -1,4 +1,4 @@
-/*
+"""
 Desafio - As duas torres
 
 Saruman, o Branco, um grande mago da Terra-média, traiu os bons costumes e se filiou ao lorde do mal, Sauron.
@@ -22,7 +22,7 @@ Um valor real indicando o ICM da comunicação dos Palatír de Sauron e Saruman,
 | 200 3 8 | 18.18 |
 
 IX Olimpíada Interna de Programação do IFSULDEMINAS - OLIP 2019
-*/
+"""
 
 # SOLUÇÃO
 
