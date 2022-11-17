@@ -1,4 +1,4 @@
-/*
+"""
 # Desafio
 
 Rubens quer calcular e mostrar a quantidade de litros de combustível gastos em uma viagem de carro, sendo que seu carro faz 12 KM/L.
@@ -16,7 +16,7 @@ Imprima a quantidade de litros necessária para realizar a viagem, com três dí
 | ------- | -------- |
 | 10 85 | 70.833 |
 | 22 67 | 122.833 |
-*/
+"""
 # SOLUÇÃO
 
 valores = input().split()
