@@ -1,4 +1,4 @@
-/*
+"""
 Desafio - Cachorros quentes
 
 Em 2012 foi alcançado um novo recorde mundial na famosa Competição de Cachorros-Quentes do Nathan: o campeão, Joey Chestnut, devorou 68 cachorros-quentes em dez minutos, um aumento incrível em relação aos 62 sanduíches devorados pelo mesmo Chestnut em 2011.
@@ -22,7 +22,7 @@ Seu programa deve produzir uma única linha com um número racional representand
 |   1 50 |  0.02 |
 |  34 1000 | 0.03 |
 |  35 1000 | 0.04 |
-*/
+"""
 
 # SOLUÇÃO
 
