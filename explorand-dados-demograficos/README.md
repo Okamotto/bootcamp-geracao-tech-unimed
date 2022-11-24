@@ -1,4 +1,4 @@
-# Explorando Dados Demográficos com Serviços de Bog Data na AWS
+# Explorando Dados Demográficos com Serviços de Big Data na AWS
 
 ### Serviços utilizados no desafio
  - Amazon S3
